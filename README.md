@@ -1,23 +1,49 @@
-# Imersão de Dados com Python
+# 📊 Imersão de Dados com Python
 
-Este repositório reúne um projeto prático focado no aprendizado intensivo de Python aplicado à análise de dados. O objetivo principal é desenvolver habilidades em manipulação de grandes volumes de informações, limpeza de dados e criação de visualizações estratégicas.
+> **Análise exploratória e visualização de dados salariais na área de tecnologia.**
 
-Os projetos abrangem desde a análise exploratória até a implementação de modelos básicos de Machine Learning e estatística, apresentando insights de forma clara e objetiva.
+Este repositório contém um projeto prático desenvolvido durante a **Imersão de Dados**, focado em Data Science. O objetivo foi transformar uma base de dados bruta em insights estratégicos, passando por todas as etapas do pipeline de dados: coleta, limpeza, tratamento e visualização interativa.
 
 ---
 
-## 📊 **Projeto Online**
+## 🌐 **Demonstração Online**
 
-Você pode acessar a aplicação rodando diretamente no navegador através do link abaixo:
+O projeto foi implantado e está rodando na nuvem via **Streamlit Cloud**. Você pode interagir com os gráficos e filtros clicando no botão abaixo:
 
-🔗 **[Análise de Salários na Área de Dados](https://curso-imersao-de-dados-alura.streamlit.app/)**
+<div align="center">
+  <a href="https://curso-imersao-de-dados-alura.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🛠️ **O que foi desenvolvido?**
+
+* **ETL Simplificado:** Carregamento e limpeza de grandes volumes de dados.
+* **Análise Exploratória (EDA):** Identificação de padrões, médias salariais e distribuição por senioridade.
+* **Visualização de Dados:** Criação de gráficos intuitivos para facilitar a leitura das informações.
+* **Dashboard Interativo:** Aplicação web onde o usuário pode filtrar os dados em tempo real.
 
 ---
 
 ## 🚀 **Tecnologias Utilizadas**
 
-* **Python 3.10**
-* **Pandas** (Manipulação e análise de dados)
-* **NumPy** (Computação numérica)
-* **Matplotlib** (Visualização de dados)
-* **Streamlit** (Criação e deploy de web apps de dados)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</div>
+
+<br>
+
+## 💻 **Como rodar localmente**
+
+Caso queira rodar o projeto na sua própria máquina:
+
+1. Clone este repositório.
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
