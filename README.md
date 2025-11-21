@@ -1,6 +1,6 @@
 # Imersão de Dados com Python
 
-Este repositório reúne projetos práticos focados no aprendizado intensivo de Python aplicado à análise de dados. O objetivo principal é desenvolver habilidades em manipulação de grandes volumes de informações, limpeza de dados e criação de visualizações estratégicas.
+Este repositório reúne um projeto prático focado no aprendizado intensivo de Python aplicado à análise de dados. O objetivo principal é desenvolver habilidades em manipulação de grandes volumes de informações, limpeza de dados e criação de visualizações estratégicas.
 
 Os projetos abrangem desde a análise exploratória até a implementação de modelos básicos de Machine Learning e estatística, apresentando insights de forma clara e objetiva.
 
